@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.DS_Store
+.venv/
+venv/
+env/
+*.pth
+*.pt
+*.xlsx
+*.csv
+*.png
+*.jpg
+*.jpeg
+*.tif
+*.tiff
