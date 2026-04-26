@@ -1,5 +1,7 @@
 # PCGA-DFS Model Comparison
 
+**Prediction of Multi-Component Heavy Metal Concentrations**
+
 This repository contains a Python script for training and comparing deep learning models for heavy metal concentration prediction from digital fingerprint spectra (DFS) images.
 
 ## File
